@@ -8,6 +8,6 @@
   ],
   "plugins": ["jsx-a11y", "react"],
   "rules": {
-    "strict": 0
+    "strict": 1
   }
 }
